@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, 
 
-<!--
-**whamidrezaw/wHAMIDREZAw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🐍 Python Developer | Automation & Data Tools   
+🔭 Currently working on AI-powered news and productivity tools
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- Python (Automation, APIs, CLI tools)
+- Data fetching & real-time publishing
+- Task & time management systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [NewsRadar](https://github.com/whamidrezaw/NewsRadar) | Automated news radar & aggregator | Python |
+| [Time Manager Pro](https://github.com/whamidrezaw/time_manager_pro) | Advanced time & task management tool | Python |
+| [Toman Live Publisher](https://github.com/whamidrezaw/toman-live-publisher) | Live currency rate publisher (Toman) | Python |
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=whamidrezaw&show_icons=true&theme=dark)
